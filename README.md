@@ -78,3 +78,5 @@ Python        13 mins        ▓▓▓▓░░░░░░░░░░░░░
 - 📫 How to reach me: everytime you want
 - ⚡ Fun fact: 
 
+ ## Snake eating my contribution graph
+ ![snake gif](https://github.com/hoangdaochuz/hoangdaochuz/blob/output/github-contribution-grid-snake.gif)
