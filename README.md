@@ -79,4 +79,5 @@ Python        13 mins        ▓▓▓▓░░░░░░░░░░░░░
 - ⚡ Fun fact: 
 
  ## Snake eating my contribution graph
+ ![gitartwork](gitartwork.svg)
  ![snake gif](https://github.com/hoangdaochuz/hoangdaochuz/blob/output/github-contribution-grid-snake.gif)
