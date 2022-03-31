@@ -10,10 +10,10 @@ name: gitartwork from a contribution graph
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v2
-       - uses: jasineri/gitartwork@v1
+       - uses: hoangdaochuz/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: hoangdaochuz
             # Text on contribution graph 
             text: hoangdaochuz
-       - uses: jasineri/simple-push-action@v1
+       - uses: hoangdaochuz/simple-push-action@v1
