@@ -15,5 +15,5 @@ jobs:
             # Use this username's contribution graph  
             user_name: hoangdaochuz
             # Text on contribution graph 
-            text: hkdarealest
+            text: hk4real
        - uses: jasineri/simple-push-action@v1
